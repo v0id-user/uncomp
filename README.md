@@ -1,6 +1,6 @@
 # uncomp
 
-![asset/uncompresable.mp4](asset/uncompresable.mp4)
+<video src="asset/uncompresable.mp4" controls width="100%"></video>
 
 **uncomp** generates high-entropy files that resist lossless compression. It demonstrates that under maximum entropy, compression algorithms cannot reduce (and may increase) file size.
 
